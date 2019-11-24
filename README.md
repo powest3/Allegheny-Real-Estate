@@ -1,1 +1,1 @@
-Allegheny County housing marke analysis
+Allegheny County housing market analysis
